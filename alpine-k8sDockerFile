@@ -1,5 +1,0 @@
-# Set argument to allow parameter to be passed in
-ARG mytag
-
-# Get image from external source
-FROM alpine/k8s:$mytag
